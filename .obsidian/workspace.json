@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "9a7345ab59b3f28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4905e59fb413ee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297d27ec24cc46b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WebRTC.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8980c736fda25d31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "API, Framework, Library, ....md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "c1c2ec49b8960a85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vim.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "036f4fce6a305bfa",
+    "type": "split",
+    "children": [
+      {
+        "id": "277347f33ad4da8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b574bd38d8de559",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "88e22401a99e62ae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "teleport",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "734ddb58dbe88cd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5
+  },
+  "right": {
+    "id": "32b929543df1c9f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e91646618f49e75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f7f4624a726347d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "API, Framework, Library, ....md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "baa75d4c5f9edfca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "API, Framework, Library, ....md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8682cc4351275578",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3bbbfcd439593f44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "API, Framework, Library, ....md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8980c736fda25d31",
+  "lastOpenFiles": [
+    "WebRTC.md",
+    "API, Framework, Library, ....md",
+    "Vim.md",
+    "AWS CLI.md",
+    "cheil/cheil-tech/AWS Account List.md",
+    "Markdown syntax highlighting.md",
+    "markdown.md",
+    "W3C.md",
+    "IETF.md",
+    "webrtc-stun.png",
+    "webrtc-turn.png",
+    "cheil/Try Galaxy/TGFold-architecture.png",
+    "cheil/Try Galaxy/Try Galaxy Fold Experience.md",
+    "cheil/Try Galaxy/TryGalaxy-COTURN-architecture.png",
+    "Try Galaxy",
+    "cheil/Samsung Newsroom/AWS Account List.md",
+    "cheil/cheil-tech/IAM Role List.md",
+    "cheil/Company/2024 Goal Setting.md",
+    "ICE,.md",
+    "cheat-sheets/linux/awk.md",
+    "cheat-sheets/linux/ethtool.md",
+    "cheat-sheets/linux/linux.md",
+    "cheil/cheil-tech/EC2 instances.md",
+    "cheil/cheil-tech/AWS Root Account Email List.md",
+    "cheil/cheil-tech/RDS instances.md",
+    "cheil/Samsung Newsroom",
+    "cheat-sheets/macos/chrome-on-macos.md",
+    "cheat-sheets/kubernetes/kubernetes-dns.md",
+    "cheat-sheets/kubernetes/kubernetes.md",
+    "cheat-sheets/kubernetes/kubectl.md",
+    "cheat-sheets/kubernetes/kind.md",
+    "cheat-sheets/kubernetes/k9s.md",
+    "cheil/Company",
+    "cheil/cheil-tech",
+    "AWS",
+    "cheil/Try Galaxy",
+    "cheil",
+    "cheat-sheets/cloud/azure/azure-cli",
+    "cheat-sheets/cloud/azure/azure",
+    "cheat-sheets/networking/mail"
+  ]
+}
