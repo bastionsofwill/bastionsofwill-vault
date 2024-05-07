@@ -1,4 +1,3 @@
-Resolution.
 픽셀의 개수를 나타낸다.
 
 |Name|H(px)|V(px)|H:V|H × V(Mpx)|

@@ -31,11 +31,11 @@ ICE 프레임워크는 STUN/TURN 프로토콜로 RTCPeerConnection이 NAT traver
 ## Transport / Session
 본격적인 P2P 통신은 `RTCPeerConnection`으로 이루어지지만, 통신이 성립되기 위해서는 제어 메시지를 교환하면서 통신을 조정하는 절차, 즉 Signaling이 먼저 이루어져야 한다.
 WebRTC는 Signaling 관련 내용을 명시하지 않기 때문에, WebRTC 앱 개발자는 기능을 구현할 때 [적절한 방안](https://github.com/muaz-khan/WebRTC-Experiment/blob/master/Signaling.md)을 선택하여야 한다.
-[appr.tc](appr.tc)는 XHR과 ChannelAPI를, codelab에서는 Node server 위에서 Socket.io를 사용한다.
+[appr.tc](https://appr.tc)는 XHR과 ChannelAPI를, codelab에서는 Node server 위에서 Socket.io를 사용한다.
 
 Signaling이 성공적으로 수행되었다는 것은 두 peer 간에 아래의 정보가 문제없이 교환되었다는 것이다.
 - 네트워크 구성: 서로를 식별할 수 있는 IP 주소와 포트 정보. ICE 프레임워크로 교환
-- 미디어 호환성: 서로의 브라우저에서 처리할 수 있는 [코덱](코덱), [해상도](해상도) 정보. SDP(Session Description Protocol)로 교환
+- 미디어 호환성: 서로의 브라우저에서 처리할 수 있는 [Codec](Codec.md), [Resolution](Resolution.md) 정보. SDP(Session Description Protocol)로 교환
 성공적으로 Signaling 절차가 종료되면 비로소 RTCPeerConnection API를 사용한 peer 간(또는 relay 서버를 거쳐서) 통신이 가능하다.
 
 ## P2P 통신과 NAT

@@ -8,24 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "297d27ec24cc46b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WebRTC.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
             "id": "c1c2ec49b8960a85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vim.md",
+                "file": "WebRTC.md",
                 "mode": "preview",
                 "source": true
               }
@@ -158,45 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "297d27ec24cc46b3",
+  "active": "c1c2ec49b8960a85",
   "lastOpenFiles": [
-    "cheil/Bot Manager.md",
-    "API, Framework, Library, ....md",
-    "XML과 JSON.md",
+    "Vim.md",
+    "XMPP and Jingle.md",
+    "OOB.md",
+    "W3C.md",
     "WebRTC.md",
+    "XML.md",
+    "cheat-sheets/misc/github-actions.md",
+    "cheat-sheets/misc/github.md",
+    "cheat-sheets/networking/zerotrust-networkaccess.md",
+    "Resolution.md",
+    "Codec.md",
+    "cheil/Samsung Newsroom/Bot Manager.md",
+    "cheil/Samsung Newsroom/AWS Account List.md",
+    "API, Framework, Library, ....md",
     "images/webrtc-public-diagram-for-website.png",
     "images",
     "회사생활.md",
-    "Vim.md",
-    "해상도.md",
     "잡생각",
     "images/webrtc-stun.png",
     "images/webrtc-turn.png",
-    "코덱.md",
     "images/resolution.svg",
     "images/Pasted image 20240430165107.png",
     "AWS CLI.md",
     "cheil/cheil-tech/AWS Account List.md",
     "Markdown syntax highlighting.md",
     "markdown.md",
-    "W3C.md",
     "IETF.md",
     "cheil/Try Galaxy/TGFold-architecture.png",
     "cheil/Try Galaxy/Try Galaxy Fold Experience.md",
     "cheil/Try Galaxy/TryGalaxy-COTURN-architecture.png",
     "Try Galaxy",
-    "cheil/Samsung Newsroom/AWS Account List.md",
     "cheil/cheil-tech/IAM Role List.md",
     "cheil/Company/2024 Goal Setting.md",
     "ICE,.md",
     "cheat-sheets/linux/awk.md",
     "cheat-sheets/linux/ethtool.md",
-    "cheat-sheets/linux/linux.md",
-    "cheil/cheil-tech/EC2 instances.md",
-    "cheil/cheil-tech/AWS Root Account Email List.md",
-    "cheil/cheil-tech/RDS instances.md",
     "cheil/Samsung Newsroom",
-    "cheat-sheets/macos/chrome-on-macos.md",
     "cheil/Company",
     "cheil/cheil-tech",
     "AWS",
