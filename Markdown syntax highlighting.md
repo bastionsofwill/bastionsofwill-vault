@@ -1,9 +1,7 @@
-https://github.com/jincheng9/markdown_supported_languages
-
 markdown은 대체 어떤 언어를 지원하고 어떤 언어는 지원 안하는지 왜 그 목록을 찾기가 이리 힘들지?
-markdown이라는게 하나의 표준이 아닌가?
+markdown이라는게 하나의 표준이 아닌가? 라고 생각했는데, 아래와 같은 문장을 알게 되었다.
 
-Many Markdown processors support syntax highlighting for fenced code blocks. This feature allows you to add color highlighting for whatever language your code was written in. To add syntax highlighting, specify a language next to the backticks before the fenced code block.
+	Many Markdown processors support syntax highlighting for fenced code blocks. This feature allows you to add color highlighting for whatever language your code was written in. To add syntax highlighting, specify a language next to the backticks before the fenced code block.
 
 markdown processor가 알아서 처리하는 거였구나
 찾았다...!!

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7e4905e59fb413ee",
+        "id": "229acab60774ca1c",
         "type": "tabs",
         "children": [
           {
-            "id": "c1c2ec49b8960a85",
+            "id": "856729e9a2f979eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WebRTC.md",
-                "mode": "preview",
+                "file": "spring/Gradle vs Corporate network.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WebRTC.md",
+                "file": "spring/Gradle vs Corporate network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WebRTC.md",
+                "file": "spring/Gradle vs Corporate network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "WebRTC.md"
+                "file": "spring/Gradle vs Corporate network.md"
               }
             }
           }
@@ -146,50 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1c2ec49b8960a85",
+  "active": "856729e9a2f979eb",
   "lastOpenFiles": [
-    "Vim.md",
-    "XMPP and Jingle.md",
-    "OOB.md",
-    "W3C.md",
-    "WebRTC.md",
-    "XML.md",
-    "cheat-sheets/misc/github-actions.md",
-    "cheat-sheets/misc/github.md",
-    "cheat-sheets/networking/zerotrust-networkaccess.md",
+    "AWS Summit Seoul 2024/Innovation in Cloud Governance and Log Analysis of Grip.md",
+    "TLS Certification and DNS.md",
     "Resolution.md",
+    "OOB.md",
+    "Markdown syntax highlighting.md",
+    "markdown.md",
+    "Linux Kernel.md",
+    "IETF.md",
+    "FQDN.md",
     "Codec.md",
-    "cheil/Samsung Newsroom/Bot Manager.md",
-    "cheil/Samsung Newsroom/AWS Account List.md",
+    "AWS CLI.md",
     "API, Framework, Library, ....md",
+    "misc/How to survive in company.md",
+    "misc/Oh-my-wrist.md",
+    "Git Branching.md",
+    "spring/Spring Initializr.md",
+    "spring/Gradle vs Corporate network.md",
+    "spring",
+    "cheil/개선안.md",
+    "TOML.md",
+    "docker/docker.md",
+    "XMPP and Jingle.md",
+    "XML.md",
+    "WebRTC.md",
+    "W3C.md",
+    "Vim.md",
+    "images/dorsal_interosseous.png",
+    "dorsal_interosseous 1.png",
+    "dorsal_interosseous.webp.webp",
+    "dorsal_interosseous.webp.md",
+    "cheat-sheets/docker",
+    "AWS Summit Seoul 2024",
     "images/webrtc-public-diagram-for-website.png",
     "images",
-    "회사생활.md",
-    "잡생각",
+    "misc",
     "images/webrtc-stun.png",
     "images/webrtc-turn.png",
     "images/resolution.svg",
     "images/Pasted image 20240430165107.png",
-    "AWS CLI.md",
-    "cheil/cheil-tech/AWS Account List.md",
-    "Markdown syntax highlighting.md",
-    "markdown.md",
-    "IETF.md",
     "cheil/Try Galaxy/TGFold-architecture.png",
-    "cheil/Try Galaxy/Try Galaxy Fold Experience.md",
     "cheil/Try Galaxy/TryGalaxy-COTURN-architecture.png",
     "Try Galaxy",
-    "cheil/cheil-tech/IAM Role List.md",
-    "cheil/Company/2024 Goal Setting.md",
-    "ICE,.md",
-    "cheat-sheets/linux/awk.md",
-    "cheat-sheets/linux/ethtool.md",
     "cheil/Samsung Newsroom",
     "cheil/Company",
     "cheil/cheil-tech",
-    "AWS",
-    "cheil/Try Galaxy",
-    "cheil",
-    "cheat-sheets/cloud/azure/azure-cli"
+    "AWS"
   ]
 }
