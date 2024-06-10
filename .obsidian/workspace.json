@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "229acab60774ca1c",
+        "id": "0f22307739bdab46",
         "type": "tabs",
         "children": [
           {
-            "id": "856729e9a2f979eb",
+            "id": "3fb87258af751306",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "spring/Gradle vs Corporate network.md",
+                "file": "Rust/Installation.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spring/Gradle vs Corporate network.md",
+                "file": "Rust/Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "spring/Gradle vs Corporate network.md",
+                "file": "Rust/Installation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "spring/Gradle vs Corporate network.md"
+                "file": "Rust/Installation.md"
               }
             }
           }
@@ -146,53 +146,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "856729e9a2f979eb",
+  "active": "3fb87258af751306",
   "lastOpenFiles": [
-    "AWS Summit Seoul 2024/Innovation in Cloud Governance and Log Analysis of Grip.md",
-    "TLS Certification and DNS.md",
-    "Resolution.md",
-    "OOB.md",
-    "Markdown syntax highlighting.md",
-    "markdown.md",
-    "Linux Kernel.md",
-    "IETF.md",
-    "FQDN.md",
-    "Codec.md",
-    "AWS CLI.md",
-    "API, Framework, Library, ....md",
-    "misc/How to survive in company.md",
-    "misc/Oh-my-wrist.md",
-    "Git Branching.md",
-    "spring/Spring Initializr.md",
-    "spring/Gradle vs Corporate network.md",
-    "spring",
     "cheil/개선안.md",
-    "TOML.md",
-    "docker/docker.md",
+    "Rust/Installation.md",
+    "Rust",
+    "cheil/Gradle vs Corporate network.md",
+    "Gradle/Gradle.md",
     "XMPP and Jingle.md",
     "XML.md",
-    "WebRTC.md",
-    "W3C.md",
     "Vim.md",
-    "images/dorsal_interosseous.png",
-    "dorsal_interosseous 1.png",
-    "dorsal_interosseous.webp.webp",
-    "dorsal_interosseous.webp.md",
+    "TLS Certification and DNS.md",
+    "SSO Protocols.md",
+    "AWS CLI.md",
+    "FQDN.md",
+    "Codec.md",
+    "Amazon and AWS.md",
+    "API, Framework, Library, ....md",
+    "cheat-sheets/apps/teleport/teleport.md",
+    "cheat-sheets/apps/teleport/teleport-configuration.md",
+    "cheat-sheets/apps/teleport/teleport-appservice.md",
+    "cheat-sheets/apps/teleport/teleport-aiassist.md",
+    "cheat-sheets/misc/zerotrust.md",
+    "cheat-sheets/tools/1password.md",
+    "FreeIPA.md",
+    "cheil/cheil-tech/AWS Account List.md",
+    "images/kerberos_protocol.png",
+    "Screenshot 2024-06-03 at 16.08.56.png",
+    "Screenshot 2024-06-03 at 16.06.16.png",
+    "scp -o ProxyCommand vs scp as ssh command argument.md",
+    "Screenshot 2024-06-03 at 16.08.22.png",
+    "cheat-sheets/networking/zerotrust-networkaccess.md",
+    "cheat-sheets/tools/ansible.md",
+    "cheil/cheil-tech/IAM Role List.md",
+    "Gradle",
+    "images/javaPluginTasks.png",
+    "images/gradle-multi-prj-build.png",
+    "images/gradle-multi-project-build.png",
+    "images/gradle-project-root-dir-structure.png",
+    "images/gradle-user-home-dir-structure.png",
+    "images/gradle-directories.png",
+    "cheil/Spec App",
+    "spring",
     "cheat-sheets/docker",
     "AWS Summit Seoul 2024",
-    "images/webrtc-public-diagram-for-website.png",
     "images",
     "misc",
-    "images/webrtc-stun.png",
-    "images/webrtc-turn.png",
-    "images/resolution.svg",
-    "images/Pasted image 20240430165107.png",
-    "cheil/Try Galaxy/TGFold-architecture.png",
-    "cheil/Try Galaxy/TryGalaxy-COTURN-architecture.png",
     "Try Galaxy",
-    "cheil/Samsung Newsroom",
-    "cheil/Company",
-    "cheil/cheil-tech",
-    "AWS"
+    "cheil/Samsung Newsroom"
   ]
 }
