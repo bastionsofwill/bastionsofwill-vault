@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f22307739bdab46",
+        "id": "d0fc6202bf3a9281",
         "type": "tabs",
         "children": [
           {
-            "id": "3fb87258af751306",
+            "id": "9b018895260617aa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Rust/Installation.md",
-                "mode": "source",
-                "source": true
+                "file": "Screenshot 2024-06-19 at 11.48.29.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rust/Installation.md",
+                "file": "Screenshot 2024-06-19 at 11.48.29.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rust/Installation.md",
+                "file": "Screenshot 2024-06-19 at 11.48.29.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rust/Installation.md"
+                "file": "Screenshot 2024-06-19 at 11.48.29.png"
               }
             }
           }
@@ -146,16 +144,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3fb87258af751306",
+  "active": "9b018895260617aa",
   "lastOpenFiles": [
-    "cheil/개선안.md",
+    "cheil/cheil-tech/S3 Buckets.md",
+    "Screenshot 2024-06-19 at 11.48.29.png",
+    "images/Amazon S3 Server access logging.png",
+    "Screenshot 2024-06-18 at 18.26.51.png",
+    "Vim.md",
+    "cheil/cheil-tech/AWS Account List.md",
+    "images/Detailed billing reports (legacy).png",
+    "cheil/Identity and Authentication Management.md",
+    "Linux/FreeIPA.md",
+    "Linux/Linux Kernel.md",
+    "Linux/SSSD.md",
+    "Linux",
+    "cheil/AWS Account Architecture 개선안.md",
     "Rust/Installation.md",
     "Rust",
     "cheil/Gradle vs Corporate network.md",
     "Gradle/Gradle.md",
     "XMPP and Jingle.md",
     "XML.md",
-    "Vim.md",
     "TLS Certification and DNS.md",
     "SSO Protocols.md",
     "AWS CLI.md",
@@ -168,31 +177,19 @@
     "cheat-sheets/apps/teleport/teleport-appservice.md",
     "cheat-sheets/apps/teleport/teleport-aiassist.md",
     "cheat-sheets/misc/zerotrust.md",
-    "cheat-sheets/tools/1password.md",
-    "FreeIPA.md",
-    "cheil/cheil-tech/AWS Account List.md",
     "images/kerberos_protocol.png",
     "Screenshot 2024-06-03 at 16.08.56.png",
     "Screenshot 2024-06-03 at 16.06.16.png",
-    "scp -o ProxyCommand vs scp as ssh command argument.md",
     "Screenshot 2024-06-03 at 16.08.22.png",
-    "cheat-sheets/networking/zerotrust-networkaccess.md",
-    "cheat-sheets/tools/ansible.md",
-    "cheil/cheil-tech/IAM Role List.md",
     "Gradle",
     "images/javaPluginTasks.png",
     "images/gradle-multi-prj-build.png",
-    "images/gradle-multi-project-build.png",
-    "images/gradle-project-root-dir-structure.png",
-    "images/gradle-user-home-dir-structure.png",
-    "images/gradle-directories.png",
     "cheil/Spec App",
     "spring",
     "cheat-sheets/docker",
     "AWS Summit Seoul 2024",
     "images",
     "misc",
-    "Try Galaxy",
-    "cheil/Samsung Newsroom"
+    "Try Galaxy"
   ]
 }
