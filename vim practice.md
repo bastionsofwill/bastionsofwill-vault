@@ -1,18 +1,16 @@
 - w/b로 단어 시작 이동, e/ge로 단어 끝 이동.
-- cw C cc ci' 유용하게 사용
+- cw C cc ciw 유용하게 사용
 - H M L로 커서 빠르게 이동
 - zt zz zb로 스크롤 커서에 맞게 이동
 - Ctrl-f/b: 한 페이지 이동, Ctrl-d/u: 반 페이지 이동
 - u: undo Ctrl-R: redo
-kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
 kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfji
-kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
-kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
-kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij adfjasidfi
+fioadjfiaodjfiasod;jfiajei iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
+ajdifaodsfiajdifoajsf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
+ajdfiaodfiaodjfiadsjfiadjfiajfiajsdfioadpfadjfk
 kdjakdfjakdsjfkadjs Oh that's useful.
- iad fjwieofij akdfjaisdofaisdjfkalsdf
 kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
-kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
+ajdsifjaidfojadsifjas iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
 kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
 kdjakdfjakdsjfkadjsfkajdsfkajdkf iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf
 kdjakdfjakdsjf'oh that's really useful'dsfkajdkfb iadfjisajdif fjwieofij akdfjaisdofaisdjfkalsdf

@@ -58,6 +58,7 @@ Today, that 5.3 kernel is currently available for preview as the linux-aws-edge 
 rolling kernel 모델을 통해 
 1) 최신 AMI가 최신 커널을 사용하게 되고
 2) 패키지 업데이트 또는 자동 보안 업데이트를 통해 최신 커널을 사용하게 된다.
+
 ## Reference
 [Wikipedia - Kernel](https://en.wikipedia.org/wiki/Kernel_(operating_system))
 [TuxCare blog - 2023년 Linux 커널 업데이트 심층 분석](https://tuxcare.com/ko/blog/the-2023-deep-dive-to-linux-kernel-updates/)
